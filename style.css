@@ -1,0 +1,10 @@
+body{
+    background-color: gray;
+}
+
+#makeWhite{
+    color: white;
+    font-style: italic;
+    border-width: 3px;
+    border-style: dashed;
+}
